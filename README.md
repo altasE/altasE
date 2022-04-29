@@ -1,4 +1,7 @@
 attracted
+
 detected
+
 offsensed
+
 destroyed
